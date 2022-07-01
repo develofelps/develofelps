@@ -1,8 +1,8 @@
 ## Olá! Como vai? Meu nome é Felipe e eu sou um desenvolvedor Java Web!
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/felpschneider">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpschneider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpschneider&layout=compact&langs_count=7&theme=dark"/>
+  <img height="1700em" src="https://github-readme-stats.vercel.app/api?username=felpschneider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="1700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpschneider&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block", align="center" ><br>
   <img alt="Java icon" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
