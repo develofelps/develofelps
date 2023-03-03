@@ -1,4 +1,4 @@
-## Olá! Como vai? Meu nome é Felipe e eu sou um desenvolvedor Java Web!
+## Olá! Como vai? Meu nome é Felipe e eu sou Desenvolvedor Java Júnior na Matrix Energia :)
 <div align="center">
   <a href="https://github.com/felpschneider">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpschneider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
